@@ -29,8 +29,8 @@ pip install uv
 
 #### Clone the Repository
 ```sh
-git clone https://github.com/madhavlab/2023_adhiraj_encdecPairwisePred 
-cd 2023_adhiraj_encdecPairwisePred
+git clone https://github.com/adhiraj69/EncDecAWE_Interspeech
+cd EncDecAWE_Interspeech
 ```
 
 #### Create Environment
